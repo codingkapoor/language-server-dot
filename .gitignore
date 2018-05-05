@@ -1,1 +1,6 @@
 server/test.dot
+client/package-lock.json
+node_modules/
+package-lock.json
+server/package-lock.json
+
