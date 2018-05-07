@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "publisher": "tomassetti",
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "^1.23.0"
   },
   "categories": [
     "Other"
@@ -46,11 +46,10 @@
     "postinstall": "node ./node_modules/vscode/bin/install"
   },
   "devDependencies": {
-    "@types/node": "^6.0.52",
-    "typescript": "^2.1.5",
-    "vscode": "^1.0.3"
+    "vscode": "^1.1.17",
+    "@types/node": "10.0.4"
   },
   "dependencies": {
-    "vscode-languageclient": "^3.1.0"
+    "vscode-languageclient": "^4.1.3"
   }
 }
